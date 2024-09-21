@@ -1,36 +1,22 @@
-<h1 align="center">Hi 👋, I'm Arthur Kwak</h1>
-<h3 align="center">A passionate frontend developer from the Netherlands</h3>
+# 💫 About Me:
+🔭 I’m currently working on ReciShare<br><br>🌱 I’m currently learning Fatfree php fromework<br><br>👯 I’m looking to collaborate on ReciShare<br><br>👨‍💻 All of my projects are available at github.com/tureluurtje<br><br>💬 Ask me about python or css<br><br>📫 How to reach me tureluurtje.1@Gmail.com<br><br>⚡ Fun fact I am born on 26 April
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tureluurtje&label=Profile%20views&color=0e75b6&style=flat" alt="tureluurtje" /> </p>
 
-- 🔭 I’m currently working on [ReciShare](https://github.com/Tureluurtje/ReciShare)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tureluurtje) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arthur kwak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur kwak) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@tureluurtje1) 
 
-- 🌱 I’m currently learning **Fatfree php fromework**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tureluurtje&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tureluurtje&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tureluurtje&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 👯 I’m looking to collaborate on [ReciShare](https://github.com/Tureluurtje/ReciShare)
+---
+[![](https://visitcount.itsvg.in/api?id=tureluurtje&icon=10&color=13)](https://visitcount.itsvg.in)
 
-- 👨‍💻 All of my projects are available at [github.com/tureluurtje](github.com/tureluurtje)
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tureluurtje) 
 
-- 💬 Ask me about **python or css**
-
-- 📫 How to reach me **tureluurtje.1@Gmail.com**
-
-- ⚡ Fun fact **I am born on 26 April**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@tureluurtje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@tureluurtje" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arthur kwak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthur kwak" height="30" width="40" /></a>
-<a href="https://fb.com/arthur kwak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arthur kwak" height="30" width="40" /></a>
-<a href="https://dribbble.com/arthur kwak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="arthur kwak" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@tureluurtje1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tureluurtje1" height="30" width="40" /></a>
-<a href="https://discord.gg/tureluurtje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tureluurtje" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/tureluurtje"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/tureluurtje" /></a></p>
-<p>  <img src="https://github-readme-stats.vercel.app/api?username=tureluurtje&count_private=true&show_icons=true&theme=prussian" width="400"></p><br>
-<p>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tureluurtje&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
