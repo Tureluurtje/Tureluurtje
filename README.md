@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [passwordmanager](https://github.com/tureluurtje/passwordmanager)<br><br>🌱 I’m currently learning professional python data analysis<br><br>👯 I’m looking to collaborate on ReciShare<br><br>👨‍💻 All of my projects are available at github.com/tureluurtje<br><br>💬 Ask me about python or css<br><br>📫 How to reach me tureluurtje.1@Gmail.com<br><br>⚡ Fun fact I am born on 26 April
+🔭 I’m currently working on [passwordmanager](https://github.com/tureluurtje/passwordmanager)<br><br>🌱 I’m currently learning professional python data analysis<br><br>👯 I’m looking to collaborate on [passwordmanager](https://github.com/tureluurtje/passwordmanager)<br><br>👨‍💻 All of my projects are available at github.com/tureluurtje<br><br>💬 Ask me about python or css<br><br>📫 How to reach me: tureluurtje.1@Gmail.com<br><br>⚡ Fun fact I am born on 26 April
 
 
 ## 🌐 Socials:
